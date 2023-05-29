@@ -32,11 +32,11 @@ const MemberCard: React.FC<{ member: Member }> = ({ member }) => {
 const Page: NextPage = () => {
   return (
     <>
-      <PageSEO title="Members" path="/members" />
+      <PageSEO title="Member" path="/members" />
       <ContentWrapper>
         <section className="members">
           <h1 className="members__title">
-            Members{" "}
+            Member{" "}
             <span className="members__title-team">
               @ {config.siteMeta.teamName}
             </span>
