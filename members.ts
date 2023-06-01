@@ -13,8 +13,8 @@ export const members: Member[] = [
       "https://catnose.medium.com/feed",
     ],
     includeUrlRegex: "medium.com|zenn.dev",
-    twitterUsername: "catnose99",
-    githubUsername: "catnose99",
-    websiteUrl: "https://catnose99.com",
+    twitterUsername: "nobuoaida",
+    githubUsername: "Nobuo1106",
+    websiteUrl: "https://web-portfolio-nobuo-igarashi.vercel.app/",
   }
 ];
