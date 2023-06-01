@@ -14,8 +14,8 @@ export const config = {
       href: "/about",
     },
     {
-      title: "Company",
-      href: "https://zenn.dev/catnose99/articles/cb72a73368a547756862",
+      title: "HP",
+      href: "https://web-portfolio-nobuo-igarashi.vercel.app/",
     },
     {
       title: "GitHub",
