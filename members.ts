@@ -7,7 +7,7 @@ export const members: Member[] = [
     role: "Owner",
     bio:
       "iOSエンジニアにキャリアを戻したいWEBエンジニア",
-    avatarSrc: "/avatars/catnose.jpg",
+    avatarSrc: "/avatars/profile.jpg",
     sources: [
       "https://qiita.com/gonnbe1106/feed.atom",
     ],
