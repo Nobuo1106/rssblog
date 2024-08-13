@@ -6,10 +6,11 @@ export const members: Member[] = [
     name: "Nobuo Igarashi",
     role: "Owner",
     bio:
-      "iOSエンジニアにキャリアを戻したいWEBエンジニア",
+      "Webエンジニアから転向したモバイルエンジニア",
     avatarSrc: "/avatars/profile.jpg",
     sources: [
       "https://qiita.com/gonnbe1106/feed.atom",
+      "https://gonnbe1106.hatenablog.com/rss"
     ],
     twitterUsername: "nobuoaida",
     githubUsername: "Nobuo1106",
